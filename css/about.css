@@ -4,7 +4,7 @@
   width: 85px;
 }
 
-#logo-img~span {
+span {
   display: inline-block;
   font-family: 'Stalinist+One', cursive;
   color: #F2777c;

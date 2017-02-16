@@ -11,7 +11,7 @@
   width: 85px;
 }
 
-#logo-img~span {
+/*#logo-img~span {
   display: inline-block;
   font-family: 'Stalinist+One', cursive;
   color: #F2777c;
@@ -19,11 +19,21 @@
   text-transform: capitalize;
   padding-top: 25px;
 
-}
+}*/
 
 .nav>li>a{
   font-size: 18px;
   padding-top: 30px;
+}
+
+span {
+  display: inline-block;
+  font-family: 'Stalinist+One', cursive;
+  color: #F2777c;
+  font-size: 25px;
+  text-transform: capitalize;
+  padding-top: 25px;
+
 }
 
 
